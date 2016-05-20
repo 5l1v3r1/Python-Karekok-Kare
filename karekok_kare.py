@@ -46,10 +46,12 @@ if islem == 1:
 	print star
 	karekok()
 	print star
+	
 elif islem == 2:
 	print star
 	kare()
 	print star
+	
 elif islem == 3:
 	sys.exit()
 	print star
